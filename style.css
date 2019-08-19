@@ -1,0 +1,9 @@
+#animation-target {
+  background-color: #ff8888;
+  width: 200px;
+  height: 200px;
+}
+#animation-text div {
+  display: inline-block;
+  font-size: 36px;
+}
