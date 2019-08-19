@@ -1,9 +1,3 @@
-let target = document.getElementById('animation-target');
-anime({
-  targets: target,
-  translateX: 300
-});
-
 let animationText = document.getElementById('animation-text');
 let wordarray = animationText.innerText.split(' ');
 let newp = '';
